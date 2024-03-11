@@ -1,3 +1,8 @@
+/*Khalil Coats
+March 10, 2024,
+CS 320 Coding Assignment 3
+Collaborated with Aman Khera */
+
 grammar MathOps;
 file_
     : epr=expression*  #finalExpr
